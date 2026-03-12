@@ -1,7 +1,7 @@
 # yallist
 
 Yet Another Linked List
-![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/cdd78372e920e1ab19f450877a0d68a139bac2ae/20260312_203244.jpg)
+![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/b4011ae3d5bb1358442c14e2e6c96b5180b9f998/20260312_203257.jpg)
 
 There are many doubly-linked list implementations like it, but this
 one is mine.
