@@ -3,12 +3,13 @@
 Yet Another Linked List
 ![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/617a9d2010ad49cbb779562dcba3a2acdb8f3359/20260312_203244.jpg)
 ![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/2bdf614dca13a8878ae833848ae81a04e432bb91/20260312_203257.jpg)
-
+![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/ef279ac5764f3407171406f0d6405baa6e1ab9a0/20260312_203317.jpg)
+![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/ef279ac5764f3407171406f0d6405baa6e1ab9a0/20260312_203329.jpg)
+![image alt](https://github.com/Gaibu-badvel/Personal-Portfolio/blob/ef279ac5764f3407171406f0d6405baa6e1ab9a0/20260312_203354.jpg)
 
 
 There are many doubly-linked list implementations like it, but this
 one is mine.
-
 For when an array would be too big, and a Map can't be iterated in
 reverse order.
 
