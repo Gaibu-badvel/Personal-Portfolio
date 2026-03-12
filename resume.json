@@ -1,0 +1,114 @@
+{
+  "personal": {
+    "name": "Badvel Gaibusa",
+    "phone": "7993318963",
+    "email": "badvelgaibusa@gmail.com",
+    "github": "github.com/Gaibu-badvel",
+    "linkedin": "linkedin.com/in/badvel-gaibusa"
+  },
+  "education": [
+    {
+      "institution": "AUDISANKARA COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "location": "GUDUR",
+      "degree": "Bachelor of Technology",
+      "major": "Computer Science",
+      "minors": "Coding",
+      "gpa": "10.0/7.0",
+      "startDate": "Aug 2022",
+      "endDate": "May 2026",
+      "coursework": [
+        "Data Analysis",
+        "Software Engineering",
+        "Operating Systems",
+        "Algorithms",
+        "Artificial Intelligence"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TECKYBOT",
+      "role": "Intern",
+      "startDate": "Jun 2025",
+      "endDate": "May 2026",
+      "bullets": [
+        "Designed and implemented movie recommendation application in 4-person team using Python in 3-day hackathon",
+        "Developed Python-based data processing modules and exposed ML model functions through production-ready REST APIs, enabling seamless integration with client applications.",
+        "Optimized preprocessing pipelines by refactoring data transformation logic, reducing execution time by 30% and improving overall runtime efficiency.",
+        "Implemented comprehensive logging, monitoring metrics, and fault-handling mechanisms to enhance system observability and reliability in production environments.",
+        "Integrated ML solutions into existing backend architecture following clean code principles, ensuring maintainability and scalability for future development."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "HEALTH CARE CHAT-BOT",
+      "techStack": "Python, Machine Learning, Stream lit Web App",
+      "location": "GUDUR",
+      "startDate": "Jun 2025",
+      "endDate": "Feb 2026",
+      "bullets": [
+        "Architected and deployed a full-stack healthcare management platform enabling patient registration, appointment booking, and medical record management with role-based access control.",
+        "Developed RESTful APIs using Django REST Framework with comprehensive input validation, error handling based authentication to ensure secure data transactions.",
+        "Designed normalized PostgreSQL database schema optimizing for query performance, supporting patient records doctor schedules, and appointment workflows.",
+        "Built responsive frontend interfaces using HTML, CSS, and Bootstrap, ensuring cross-browser compatibility and optimal user experience across devices"
+      ]
+    },
+    {
+      "name": "KNOWLEDGEFORGE",
+      "techStack": "Fast API, React, PostgreSQL, SQL Alchemy, Render.",
+      "location": "GUDUR",
+      "startDate": "May 2024",
+      "endDate": "Jan 2025",
+      "bullets": [
+        "Built document management system with Fast API backend handling Qile uploads, metadata processing, and search functionality using asynchronous operations for improved performance.",
+        "Implemented clean React frontend with component-based architecture, enabling intuitive document upload, listing, and search features with real-time feedback.",
+        "Designed PostgreSQL database schema with SQL Alchemy ORM, implementing efficient indexing strategies for fast full text search across large document repositories.",
+        "Integrated background task processing for document parsing and implemented comprehensive error handling, logging, and input validation for production reliability."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "organization": "RESUME WORDED FINANCE SOCIETY",
+      "role": "Head of Events",
+      "location": "GUDUR",
+      "startDate": "Sep 2026",
+      "endDate": "Present",
+      "bullets": [
+        "Founded the first ever Business Series to organize finance training for 70 students",
+        "Organized and advertised 10+ quarterly networking events with 50+ participants in 3 universities in Nellore"
+      ]
+    },
+    {
+      "organization": "BATMINTON SOCIETY",
+      "role": "Committee Member",
+      "location": "GUDUR",
+      "startDate": "Jan 2026",
+      "endDate": "Present",
+      "bullets": [
+        "Managed the launch of new booking system to improve organization of events; system now used across college"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "SQL", "HTML/CSS"],
+    "frameworks": ["Django", "Django REST Framework", "Fast API", "React", "SQL Alchemy"],
+    "databases": ["PostgreSQL", "MySQL"],
+    "tools": ["Git", "GitHub", "Render", "VS Code", "Postman"],
+    "coreConcepts": [
+      "RESTful API Design",
+      "Object-Oriented Programming",
+      "Database Design",
+      "Authentication & Authorization",
+      "Testing (PyTest, Django Test Framework)",
+      "Computer Networks",
+      "Low-Level Design"
+    ],
+    "spokenLanguages": ["Fluent in Telugu, English", "Conversational Proficiency in English, Hindi"]
+  },
+  "certifications": [
+    "IBM AI Fundamentals Certification – LINK",
+    "Meta Front-End Development Certification – LINK"
+  ]
+}
